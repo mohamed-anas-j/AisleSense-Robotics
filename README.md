@@ -29,13 +29,13 @@ The robot navigates pre-mapped store environments, stops at designated shelf loc
 
 Real-world autonomous navigation demonstration showing the robot patrolling aisles with LiDAR-based localization and path planning:
 
-https://github.com/user-attachments/assets/b3c6ae47-be6b-40c3-a3ca-f761c3aac67e
+https://github.com/user-attachments/assets/53a07864-7944-4ff7-9844-d555483e3632
 
 ### 📊 RViz Visualization
 
 ROS 2 visualization showing the robot's sensor fusion, costmaps, and real-time trajectory planning in RViz2:
 
-https://github.com/user-attachments/assets/53a07864-7944-4ff7-9844-d555483e3632
+https://github.com/user-attachments/assets/b3c6ae47-be6b-40c3-a3ca-f761c3aac67e
 
 ### 🔍 Vision Pipeline Analytics
 
