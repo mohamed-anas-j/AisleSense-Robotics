@@ -64,8 +64,8 @@ Enhancement suggestions are welcome! Please:
 ### Robot Core (aislesense/)
 ```bash
 cd aislesense
-docker-compose build
-docker-compose up
+docker compose build
+docker compose up
 ```
 
 ### Navigator GUI (aislesense_navigator/)
