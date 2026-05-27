@@ -294,4 +294,7 @@ Under the following terms:
 
 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
+# Contributors
+Syed Mohammed Shahid
+Mohammed Anas ( who didn't add my name )
 © 2026 AisleSense. All rights reserved for commercial use.
